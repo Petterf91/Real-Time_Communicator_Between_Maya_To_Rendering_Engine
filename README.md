@@ -6,7 +6,7 @@ Using MayaAPI to create callbacks and send messages to the rendering engine usin
 Setup
 ===============
 1: Open up loadPlugin.py and input your path to /MayaPlugin/x64/Debug/MayaAPI.mll on line 21.<br />
-2: Open Maya 2017 or 2018 and run "commandPort -n ":1234";<br />
+2: Open Maya 2017 or 2018 and run commandPort -n ":1234";<br />
 3: Open MayaAPI.sln and testRayLib.sln.<br />
 4: Build solution in MayaAPI.sln.<br />
 5: Run testRayLib.sln.<br />
