@@ -12,3 +12,5 @@ Setup
 5: Run testRayLib.sln.<br />
 
 Note: If you want to change the texture on the mesh, make sure the texture is a .png file.
+
+Made by Petter Flood and Emil Hallin.
