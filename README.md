@@ -10,3 +10,5 @@ Setup
 3: Open MayaAPI.sln and testRayLib.sln.<br />
 4: Build solution in MayaAPI.sln.<br />
 5: Run testRayLib.sln.<br />
+
+Note: If you want to change the texture on the mesh, make sure the texture is a .png file.
